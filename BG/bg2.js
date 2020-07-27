@@ -3,10 +3,26 @@ xiaokang.codeFull();
 xiaokang.bgPage();
 // 设置随机背景的图片
 xiaokang.imgList = [
-    "https://cdn.jsdelivr.net/gh/Mulsd/img-bed@latest/2020/07/05/62fd3efba4e3d66c722416cc3c7c5ee2.png",
-    "https://cdn.jsdelivr.net/gh/Mulsd/img-bed@latest/2020/07/05/0db95fb7e3bccb9ff012253a103e46fa.png",
-    "https://cdn.jsdelivr.net/gh/Mulsd/img-bed@latest/2020/07/05/5eca656b76701a8bb7a6f237eaa54d00.png",
-    "https://cdn.jsdelivr.net/gh/Mulsd/img-bed@latest/2020/07/05/220ca21ab67977f80763cfa0b739e7e8.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/01.jpg",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/02.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/03.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/04.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/05.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/06.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/07.jpg",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/08.jpg",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/09.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/10.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/11.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/12.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/13.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/14.jpg",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/15.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/16.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/17.png",
+    "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/18.png",
+    // "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/",
+    // "https://cdn.jsdelivr.net/gh/Mulsd/cdn2@latest/IM/",
 
 ];
 // 调用随机背景
