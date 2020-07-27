@@ -1,1 +1,1 @@
-ls >> list.txt
+ls > list.txt
