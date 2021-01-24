@@ -1,21 +1,21 @@
-$(document).ready(function(){
+$(document).ready(function() {
 
-  	if(location.href.indexOf(atob("bGpraC50aw==")) == -1){
-		location.href = atob("Ly9samtoLnRr");
-	}
-	var content="";
-	var author="";
-	var getQuote = function(){
-		$.getJSON("https://v1.hitokoto.cn/?c=a&encode=json",function(json){
-			content = json["hitokoto"];
-			author = json["from"];
-			//console.log(content+"_"+author);
+    if (location.href.indexOf(atob("bWUubXVsc2QueHl6")) == -1) {
+        location.href = atob("Ly9tZS5tdWxzZC5jb20=");
+    }
+    var content = "";
+    var author = "";
+    var getQuote = function() {
+        $.getJSON("https://v1.hitokoto.cn/?c=a&encode=json", function(json) {
+            content = json["hitokoto"];
+            author = json["from"];
+            //console.log(content+"_"+author);
 
-			$(".quote-content").html("「 "+content+" 」");
-			$(".quote-author").html("——"+author);
-		});
-	}
+            $(".quote-content").html("「 " + content + " 」");
+            $(".quote-author").html("——" + author);
+        });
+    }
 
-	getQuote();
+    getQuote();
 
 });
