@@ -1,8 +1,3 @@
-$(document).ready(function() {
-
-    if (location.href.indexOf(atob("bWUubXVsc2QueHl6")) == -1) {
-        location.href = atob("Ly9tZS5tdWxzZC54eXo=");
-    }
     var content = "";
     var author = "";
     var getQuote = function() {
